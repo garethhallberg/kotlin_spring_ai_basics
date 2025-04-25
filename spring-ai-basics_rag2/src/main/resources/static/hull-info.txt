@@ -1,0 +1,161 @@
+---
+
+1.  **Project Name:** Humber Tidal Gateway
+    * **Goal:** Pilot project to test the feasibility of a small-scale tidal lagoon in the Humber Estuary for predictable energy generation.
+    * **Status:** Feasibility Study
+    * **Lead Contact:** Dr. Aris Thorne
+    * **Theme:** Alternative Energy
+
+---
+
+2.  **Project Name:** Citywide Solar Canopy Initiative
+    * **Goal:** Install solar panel canopies over major city car parks (e.g., St Stephen's, Princes Quay) to generate clean energy and provide shaded parking.
+    * **Status:** Planning
+    * **Lead Contact:** Cllr. Evelyn Reed
+    * **Theme:** Alternative Energy
+
+---
+
+3.  **Project Name:** Geothermal Heat Network - East Hull
+    * **Goal:** Explore the potential for deep geothermal energy extraction to provide district heating for residential areas in East Hull.
+    * **Status:** Active Development (Initial Drilling)
+    * **Lead Contact:** Jian Li Hassan
+    * **Theme:** Alternative Energy
+
+---
+
+4.  **Project Name:** Offshore Wind Maintenance Drone Hub
+    * **Goal:** Establish a drone operations centre at Alexandra Dock for autonomous inspection and minor maintenance of offshore wind turbines in the North Sea.
+    * **Status:** Active Development
+    * **Lead Contact:** Marcus Bellweather
+    * **Theme:** Alternative Energy
+
+---
+
+5.  **Project Name:** Green Hydrogen Production Pilot
+    * **Goal:** Develop a small-scale green hydrogen production facility using curtailed wind energy, aimed at decarbonising local transport or industry.
+    * **Status:** Planning
+    * **Lead Contact:** Dr. Anya Sharma
+    * **Theme:** Alternative Energy
+
+---
+
+6.  **Project Name:** Community Wind Turbine - Victoria Park
+    * **Goal:** A community-funded initiative to erect a medium-sized wind turbine near Victoria Park, with profits reinvested into local green spaces.
+    * **Status:** On Hold (Funding Review)
+    * **Lead Contact:** Brenda Stone
+    * **Theme:** Alternative Energy
+
+---
+
+7.  **Project Name:** Kinetic Road Power Generation Trial
+    * **Goal:** Install kinetic plates on a section of the A63 Castle Street to generate electricity from the pressure of passing vehicles.
+    * **Status:** Completed Pilot (Data Analysis Phase)
+    * **Lead Contact:** Prof. Kenji Tanaka
+    * **Theme:** Alternative Energy
+
+---
+
+8.  **Project Name:** Hull FC - Next Generation Academy
+    * **Goal:** Build a state-of-the-art youth training facility focused on developing local Rugby League talent using advanced analytics and sports science.
+    * **Status:** Active Development
+    * **Lead Contact:** Lee Radford Jr. (Fictional Role)
+    * **Theme:** Rugby League
+
+---
+
+9.  **Project Name:** Hull KR - Community Engagement Programme 2.0
+    * **Goal:** Expand the club's outreach activities, focusing on using Rugby League to promote health, education, and social inclusion across East Hull.
+    * **Status:** Active Development
+    * **Lead Contact:** Michelle Agyeman
+    * **Theme:** Rugby League
+
+---
+
+10. **Project Name:** Rugby League Heritage Digital Archive
+    * **Goal:** Create a comprehensive online archive documenting the history of Rugby League in Hull, including oral histories, match footage, and memorabilia.
+    * **Status:** Planning
+    * **Lead Contact:** David Bishop (Historian)
+    * **Theme:** Rugby League
+
+---
+
+11. **Project Name:** Wheelchair Rugby League Hub Establishment
+    * **Goal:** Develop dedicated facilities and coaching programs to establish Hull as a national centre for Wheelchair Rugby League.
+    * **Status:** Active Development
+    * **Lead Contact:** Sarah Jenkins
+    * **Theme:** Rugby League
+
+---
+
+12. **Project Name:** Hull Derby Fan Zone Experience
+    * **Goal:** Create enhanced, family-friendly fan zones with interactive elements for both Hull FC and Hull KR derby days.
+    * **Status:** Planning
+    * **Lead Contact:** Mark O'Connell (Events Manager)
+    * **Theme:** Rugby League
+
+---
+
+13. **Project Name:** Humber Street Sesh - Expansion Initiative
+    * **Goal:** Secure funding and infrastructure improvements to sustainably grow the annual Humber Street Sesh music festival.
+    * **Status:** Active Development (Grant Application Phase)
+    * **Lead Contact:** Dave Mays (Festival Director)
+    * **Theme:** Music
+
+---
+
+14. **Project Name:** The New Adelphi Club - Preservation Project
+    * **Goal:** A community-led effort to secure the long-term future of the iconic Adelphi venue through essential renovations and archival work.
+    * **Status:** Active Development
+    * **Lead Contact:** Paul Jackson (Venue Manager)
+    * **Theme:** Music
+
+---
+
+15. **Project Name:** Hull Music Tech Incubator
+    * **Goal:** Establish a co-working space and mentorship program for local music technology startups (e.g., software, hardware, production tools).
+    * **Status:** Planning
+    * **Lead Contact:** Dr. Chloe Williams
+    * **Theme:** Music
+
+---
+
+16. **Project Name:** City Hall Organ Restoration & Recital Series
+    * **Goal:** Complete the restoration of the Hull City Hall concert organ and launch a regular series of public recitals and educational events.
+    * **Status:** Active Development (Final Tuning)
+    * **Lead Contact:** Simon Johnson (Organist)
+    * **Theme:** Music
+
+---
+
+17. **Project Name:** Interactive Music Trail - Hull Old Town
+    * **Goal:** Develop an augmented reality mobile app guiding users through Hull's Old Town, revealing historical music facts and performances at key locations.
+    * **Status:** Completed Pilot
+    * **Lead Contact:** Ben Lister (App Developer)
+    * **Theme:** Music
+
+---
+
+18. **Project Name:** Tidal Resonance Sound Installation
+    * **Goal:** Create a large-scale public sound art installation near The Deep that generates ambient music reacting to the Humber's tidal patterns.
+    * **Status:** Planning
+    * **Lead Contact:** Freya Gustavo (Sound Artist)
+    * **Theme:** Music/Art/Energy (Cross-theme)
+
+---
+
+19. **Project Name:** Waste Heat Recovery - Data Centre Synergy
+    * **Goal:** Capture waste heat from a major data centre in Hull and pipe it to nearby buildings (like Hull Truck Theatre or residential blocks) for heating.
+    * **Status:** Feasibility Study
+    * **Lead Contact:** Peter Schmidt
+    * **Theme:** Alternative Energy/Efficiency
+
+---
+
+20. **Project Name:** Virtual Reality Rugby League Training Simulation
+    * **Goal:** Develop a VR simulation tool for professional and academy players to practice tactical scenarios and decision-making without physical contact.
+    * **Status:** Active Development (Alpha Testing)
+    * **Lead Contact:** Tom Jones (Lead Developer)
+    * **Theme:** Rugby League/Technology (Cross-theme)
+
+---
